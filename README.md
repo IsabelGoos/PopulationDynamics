@@ -25,3 +25,7 @@ This repository documents my journey through that modelling process. It illustra
 Moving from pure mathematics to applied modelling required a shift in mindset. I had to become more comfortable with approximation and creative problem-solving, learning to translate mathematical methods into concrete representations of real-world phenomena, while maintaining the mathematical rigour that had shaped my previous education.
 
 I hope this repository can be useful to students and professionals interested in mathematical modelling, particularly those making the transition from a predominantly theoretical mathematical background to applied problem-solving.
+
+## Contenti
+
+
