@@ -26,6 +26,6 @@ Moving from pure mathematics to applied modelling required a shift in mindset. I
 
 I hope this repository can be useful to students and professionals interested in mathematical modelling, particularly those making the transition from a predominantly theoretical mathematical background to applied problem-solving.
 
-## Contenti
+## Contents
 
 
